@@ -19,7 +19,6 @@
 - 💻 I am a `Full-Stack Developer` focused on Web & Mobile Applications
 - 🌱 Fast learner and always exploring new technologies
 - 🚀 Passionate about building real-world software solutions
-- 📫 You can reach me at: `sandeepsamkenda124@gmail.com`
 
 <br>
 
