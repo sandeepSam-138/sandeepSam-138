@@ -31,7 +31,7 @@
 	<a href="https://github.com/sandeepSam-138">
 		<img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
 	</a>
-	<a href="https://www.linkedin.com/">
+	<a href="https://www.linkedin.com/in/sandeep-samkenda/">
 		<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 </p>
