@@ -96,6 +96,9 @@
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="ExpressJS" /><br>ExpressJS
     </td>
+	<td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="48" height="48" alt="FastAPI" /><br>FastAPI
+    </td>
   </tr>
 </table>
 
@@ -109,6 +112,9 @@
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" /><br>MySQL
+    </td>
+	<td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
     </td>
   </tr>
 </table>
